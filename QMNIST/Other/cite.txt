@@ -1,0 +1,1 @@
+fedesoriano. (July 2021). QMNIST - The Extended MNIST Dataset (120k images). Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/qmnist-the-extended-mnist-dataset-120k-images.
